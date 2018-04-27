@@ -1,0 +1,8 @@
+﻿  App.cpp
+c:\users\pokev\desktop\cse165\miniproject4\moving_objects\moving_objects\textures\app.cpp(8): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\pokev\desktop\cse165\miniproject4\moving_objects\moving_objects\textures\app.cpp(11): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\pokev\desktop\cse165\miniproject4\moving_objects\moving_objects\textures\app.cpp(14): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\pokev\desktop\cse165\miniproject4\moving_objects\moving_objects\textures\app.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\pokev\desktop\cse165\miniproject4\moving_objects\moving_objects\textures\app.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+App.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  glutapp.vcxproj -> C:\Users\pokev\Desktop\CSE165\miniproject4\moving_objects\moving_objects\Textures\visualc15\obj\glutapp_Debug\glutapp.exe
